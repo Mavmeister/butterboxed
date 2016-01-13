@@ -1,0 +1,12 @@
+body {
+  background-image: url("../images/challenge_logo.jpg");
+  background-size: 75% auto;
+  background-repeat: no-repeat;
+}
+
+.butter {
+  float: left;
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
